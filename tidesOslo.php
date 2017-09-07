@@ -46,8 +46,9 @@
 <body>
 
   <?php
-
-
+  
+  //atking data from  http://api.sehavniva.no/tideapi_en.html
+  
   $oslo_lat = '59.908559';
   $oslo_lon = '10.734510';
 
